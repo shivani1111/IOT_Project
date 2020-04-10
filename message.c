@@ -1,5 +1,6 @@
-Git initial commit 
-git commit
+//Git initial commit 
+//git commit
+//git commit on master
 //Connect the Tx pin of the GSM modem to D3
 //Connect the Rx pin of the GSM modem to D4
 //SMS Trigger Key/Input connected to D7 (Active LOW)
